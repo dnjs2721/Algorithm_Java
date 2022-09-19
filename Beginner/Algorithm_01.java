@@ -1,5 +1,3 @@
-package Beginner.code_java;
-
 import java.util.Scanner;
 
 public class Algorithm_01 {

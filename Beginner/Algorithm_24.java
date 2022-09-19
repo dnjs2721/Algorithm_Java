@@ -1,4 +1,3 @@
-// package Beginner.code_java;
 
 // import java.util.*;
 
@@ -27,9 +26,6 @@
 //         sc.close();
 //     }
 // }
-
-package Beginner.code_java;
-
 import java.util.*;
 
 public class Algorithm_24 {

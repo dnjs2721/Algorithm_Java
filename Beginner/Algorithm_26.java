@@ -1,4 +1,3 @@
-package Beginner.code_java;
 
 import java.io.*;
 
