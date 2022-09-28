@@ -10,7 +10,7 @@ public class Algorithm_05 {
 
         int N = Integer.parseInt(br.readLine());
         Stack<Long> stack = new Stack<>();
-        int result = 0;
+        long result = 0;
 
         for(int i = 0; i < N; i++){
             Long roof = Long.parseLong(br.readLine());
@@ -20,7 +20,7 @@ public class Algorithm_05 {
             stack.push(roof);
             result += stack.size() -1;
         }
-        bw.write(Long.toString(result));
+        bw.write(String.valueOf(result));
         bw.flush();
         bw.close();
     }
