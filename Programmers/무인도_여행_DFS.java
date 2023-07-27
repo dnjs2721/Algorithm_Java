@@ -26,7 +26,7 @@ public class 무인도_여행_DFS {
             }
         }
 
-        if (res.isEmpty()) { // res 가 비어있다면 지낼 수 있는 무인도가 없다는 뜻
+        if (res.isEmpty()) { // res 가 비어있다면 지낼 수 있는 무인도가 없다는 뜻 
             return new int[]{-1};
         }
 
