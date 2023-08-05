@@ -41,3 +41,17 @@ U
 %Programmers/무인도_여행_BFS.java,c/5/c598462eab2d5cbe1097de5c32e2d6774badca4e
 N
 Programmers/호텔_대실.java,c/a/cab0ff770fc735b9a755a18bfbd299137ec55b40
+N
+Programmers/시소_짝꿍.java,0/3/034a137a09a909907758b4f3d6a4349672f706e4
+Z
+*Programmers/마법의_엘리베이터.java,d/b/db8d87965c688a48366f03af423f19f66207fdef
+U
+%Programmers/무인도_여행_DFS.java,c/1/c1e94d95a3587ee8646c6f622d0c088098af1d77
+c
+3Programmers/뒤에_있는_큰_수_찾기_Stack.java,d/2/d2aa1c0eb783be9f52624a57152ab12f79ce9313
+a
+1Programmers/크기가_작은_부분문자열.java,b/9/b97a0aa4e45bb89f6dcf3fd0e0b4b1f63c9012b2
+T
+$Programmers/숫자_변환하기.java,9/1/916a1104ef374207c8eb8b42e10baccca16cdb5c
+d
+4Programmers/뒤에_있는_큰_수_찾기_PQueue.java,0/3/0341a1861331feadebe28cb53d18fdc20fc3b263
