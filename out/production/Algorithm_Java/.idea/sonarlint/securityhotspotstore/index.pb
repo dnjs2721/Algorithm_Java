@@ -57,3 +57,7 @@ d
 4Programmers/뒤에_있는_큰_수_찾기_PQueue.java,0/3/0341a1861331feadebe28cb53d18fdc20fc3b263
 X
 (Programmers/테이블_해시_함수.java,7/3/7375de6f735eba50bd9d010dfd3362e133cbd5b9
+_
+/Programmers/가장_가까운_같은_글자.java,1/a/1a76e37b2b4066926106ecfa3ee77bf46068ffda
+Q
+!Programmers/디펜스_게임.java,5/0/50927ab78d17921a73833ee6584886aa5d0cfa8d
