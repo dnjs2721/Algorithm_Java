@@ -61,3 +61,29 @@ _
 /Programmers/가장_가까운_같은_글자.java,1/a/1a76e37b2b4066926106ecfa3ee77bf46068ffda
 Q
 !Programmers/디펜스_게임.java,5/0/50927ab78d17921a73833ee6584886aa5d0cfa8d
+T
+$Programmers/문자열_나누기.java,c/3/c362d412ef6984096f68890101fa864a2914569b
+K
+Programmers/점_찍기.java,3/4/34596d381e7763413966391d0d72367ddf0f4d1b
+T
+$Programmers/햄버거_만들기.java,9/1/912889674e0ae60ced88ed30e538bc963d3ac57d
+N
+Programmers/과일_장수.java,4/a/4a0e35a9da308ee4601b246a750a0a7a595d6c71
+X
+(Programmers/숫자_카드_나누기.java,e/d/eda0a26c9db19e72995cde3f7a1dd84da38b33b9
+X
+(Programmers/푸드_파이트_대회.java,3/4/34c886dc9817cdea98c235ef242dd13690d4bd08
+N
+Programmers/귤_고르기.java,4/5/4515cdfad64bf2c2f4fc1a1b17df8f4a4c4d0e60
+W
+'Programmers/기사단원의_무기.java,e/f/ef436003afa3754bc2e09267f0b7ba66780e5629
+L
+Programmers/옹알이_2.java,6/3/637fd9ec97a40208c381bebd58f09276aa1597c8
+Q
+!Programmers/명예의_전당.java,a/a/aaf0bbee7cdd32257f7f4b803a8e7babf23ee47c
+N
+Programmers/콜라_문제.java,0/3/038c0b4faac5e0749bceaecd1106d9bf0302faa8
+W
+'Programmers/롤케이크_자르기.java,b/6/b64a873037b730c83ab46aba98b5d6e318d0f1b0
+J
+Programmers/삼총사.java,4/a/4ad5e6c5a753a0d1f76802ca6087bb1a423cfaff

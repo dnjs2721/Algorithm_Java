@@ -1,0 +1,9 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìÊÓ‚8àñˆœ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ää®ó8àñˆœ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(À½È‰şÿÿÿÿ8äñˆœ1
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(“÷ç½8åñˆœ1
+J
+java:S1172"(Remove this unused method parameter "k".(²–ëüÿÿÿÿ8åñˆœ1
+V
+java:S1128"4Remove this unused import 'java.util.PriorityQueue'.(ÆãÑşøÿÿÿÿ8æñˆœ1
