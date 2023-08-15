@@ -1,0 +1,8 @@
+
+o
+java:S1104"RMake answer a static final constant or non-public and provide accessors if needed.(µ©Ï8Åèô•1
+I
+java:S1444",Make this "public static answer" field final(µ©Ï8Æèô•1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²°›”ÿÿÿÿÿ8Æèô•1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ää®ó8Æèô•1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•¹İøûÿÿÿÿ8Îèô•1
