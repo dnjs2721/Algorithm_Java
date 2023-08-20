@@ -110,40 +110,40 @@ public class 광물_캐기_GREEDY {
         }
         return answer;
     }
-}
 
-class Mineral {
-    private int cost;
-    private String mineral;
+    static class Mineral {
+        private int cost;
+        private String mineral;
 
-    public Mineral(int cost, String mineral) {
-        this.cost = cost;
-        this.mineral = mineral;
+        public Mineral(int cost, String mineral) {
+            this.cost = cost;
+            this.mineral = mineral;
+        }
+
+        public int getCost() {
+            return cost;
+        }
+
+        public String getMineral() {
+            return mineral;
+        }
     }
 
-    public int getCost() {
-        return cost;
-    }
+    static class Node {
+        private int node;
+        private int totalCost;
 
-    public String getMineral() {
-        return mineral;
-    }
-}
+        public Node(int node, int totalCost) {
+            this.node = node;
+            this.totalCost = totalCost;
+        }
 
-class Node {
-    private int node;
-    private int totalCost;
+        public int getNode() {
+            return node;
+        }
 
-    public Node(int node, int totalCost) {
-        this.node = node;
-        this.totalCost = totalCost;
-    }
-
-    public int getNode() {
-        return node;
-    }
-
-    public int getTotalCost() {
-        return totalCost;
+        public int getTotalCost() {
+            return totalCost;
+        }
     }
 }

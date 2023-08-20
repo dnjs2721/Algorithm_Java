@@ -23,8 +23,6 @@ U
 %Programmers/대충_만든_자판.java,4/e/4e377b1beff838d923956c00fb868c7cd5657042
 R
 "Programmers/광물_캐기_DFS.java,1/9/19223c6874ad79331b16d8565cb481bb4b7c483c
-U
-%Programmers/광물_캐기_GREEDY.java,7/f/7f6a5a3496511db2f211474a06bb8f38eb0dd78d
 [
 +Programmers/혼자서_하는_틱택토.java,f/7/f7d6b623726a6b518ea0980f2b77d2c377a71077
 N

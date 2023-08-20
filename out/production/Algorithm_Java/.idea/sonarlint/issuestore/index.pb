@@ -23,8 +23,6 @@ M
 Programmers/덧칠하기.java,8/6/864b94b4cec8f87f5bc6293f7ca908c96da11ed8
 R
 "Programmers/광물_캐기_DFS.java,1/9/19223c6874ad79331b16d8565cb481bb4b7c483c
-U
-%Programmers/광물_캐기_GREEDY.java,7/f/7f6a5a3496511db2f211474a06bb8f38eb0dd78d
 [
 +Programmers/혼자서_하는_틱택토.java,f/7/f7d6b623726a6b518ea0980f2b77d2c377a71077
 N
