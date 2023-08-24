@@ -101,3 +101,9 @@ d
 4Programmers/나머지가_1이_되는_수_찾기.java,8/8/88939af22025499d329d2c80928ef6e814192827
 X
 (Programmers/혼자_놀기의_달인.java,3/3/334010a522e6203d343560a8bd76fb1247893d5e
+_
+/Programmers/가장_가까운_같은_글자.java,1/a/1a76e37b2b4066926106ecfa3ee77bf46068ffda
+N
+Programmers/공원_산책.java,3/2/3201ae7b5d6ecebee99b5ea4dc5840471966f88c
+T
+$Programmers/n2_배열_자르기.java,4/7/47a56243179bf3cacecac1e10a98e9bf29fe735b
