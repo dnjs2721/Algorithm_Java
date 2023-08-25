@@ -2,7 +2,7 @@ package BaekJoon;
 
 import java.io.*;
 
-public class 부녀회장이_될테야 {
+public class 백준_부녀회장이_될테야 {
     static Integer[][] dp = new Integer[15][15];
 
     public static void main(String[] args) throws IOException{
