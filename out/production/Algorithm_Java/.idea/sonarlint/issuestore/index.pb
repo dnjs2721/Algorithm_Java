@@ -131,3 +131,11 @@ P
  BaekJoon/Array/Algorithm_06.java,f/7/f7f07210b9b5ab2ff5df49481f4aa725b0d791ba
 P
  BaekJoon/Stack/Algorithm_06.java,8/3/83e422a18132d3b3bba4d4c3844d143046d675aa
+U
+%Programmers/광물_캐기_GREEDY.java,7/f/7f6a5a3496511db2f211474a06bb8f38eb0dd78d
+G
+Programmers/배달.java,c/4/c463c788a388162f55784ff0c8022c3d9bc4713c
+P
+ BaekJoon/Stack/Algorithm_08.java,9/4/9475009d3818c729aa5d97633412121f5eda7202
+P
+ BaekJoon/Stack/Algorithm_07.java,8/c/8c78f1a44f0690204a93a69fe0dfbf694b800992
