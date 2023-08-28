@@ -5,36 +5,37 @@ import java.util.*;
 
 public class 백준_연속합 {
 
+    static int answer;
+    static Integer[] dp;
+    static int[] arr;
+
     public static void main(String[] args) throws IOException{
-        int answer = Integer.MIN_VALUE;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
-        int[][] dp = new int[n + 1][];
+        dp = new Integer[n];
 
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        int[] arr = new int[n];
+        arr = new int[n];
         for (int i = 0; i < n; i++) {
             arr[i] = Integer.parseInt(st.nextToken());
         }
 
-        int[] tmp = new int[n];
-        for (int i = 0; i < n; i++) {
-            tmp[i] = arr[i];
-            answer = Math.max(answer, arr[i]);
-        }
-        dp[1] = tmp;
+        dp[0] = arr[0];
+        answer = dp[0];
 
-        for (int i = 2; i <= n; i++) {
-            tmp = new int[n - i + 1];
-            for (int j = 0; j <= n - i; j++) {
-                tmp[j] = dp[i - 1][j] + dp[1][i + j - 1];
-                answer = Math.max(answer, tmp[j]);
-            }
-            dp[i] = tmp;
-        }
+        scan(n - 1);
 
         System.out.println(answer);
+    }
+
+    public static int scan(int n) {
+        if (dp[n] == null) {
+            dp[n] = Math.max(scan(n - 1) + arr[n], arr[n]);
+            answer = Math.max(answer, dp[n]);
+        }
+
+        return dp[n];
     }
 }
 
