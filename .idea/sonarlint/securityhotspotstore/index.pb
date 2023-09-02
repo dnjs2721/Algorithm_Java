@@ -151,10 +151,6 @@ W
 'Programmers/짝지어_제거하기.java,f/a/fa4df7ff41afad9c9f39e3f862503fb629227a66
 ^
 .BaekJoon/백준_부녀회장이_될테야.java,8/c/8c8f420ee75bc560c8fdafe6bae956f6b1867641
-O
-BaekJoon/백준_RGB_거리.java,4/2/42110f55a71135f1e1433026d69c8f61ae9940f0
-j
-:BaekJoon/백준_가장_긴_증가하는_부분_수열.java,5/1/51778950081aa0268b03f5f67e31919b3e5a8a67
 U
 %BaekJoon/백준_정수_삼각형.java,b/d/bdd587cd378e56a9ab41c2e1ac58b0865754747b
 N
