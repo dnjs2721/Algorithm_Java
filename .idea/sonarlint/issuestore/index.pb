@@ -157,7 +157,5 @@ U
 .BaekJoon/백준_부녀회장이_될테야.java,8/c/8c8f420ee75bc560c8fdafe6bae956f6b1867641
 K
 BaekJoon/설탕_배달.java,b/a/ba3fb1a381ac3d48e25814417e558d681057c9bf
-X
-(BaekJoon/백준_피보나치_함수.java,5/7/574210b59640c6926fc13f0634d8ac2cb8d5f691
 E
 LeetCode/Sol_118.java,4/e/4ef4e87b3ef18ecf28bf853d30c94fef0cd77b0a

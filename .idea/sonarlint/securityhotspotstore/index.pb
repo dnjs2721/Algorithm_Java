@@ -139,8 +139,6 @@ P
  BaekJoon/Stack/Algorithm_08.java,9/4/9475009d3818c729aa5d97633412121f5eda7202
 P
  BaekJoon/Stack/Algorithm_07.java,8/c/8c78f1a44f0690204a93a69fe0dfbf694b800992
-X
-(BaekJoon/백준_피보나치_함수.java,5/7/574210b59640c6926fc13f0634d8ac2cb8d5f691
 N
 Programmers/모음_사전.java,0/1/012108bce7843e156092af2e7337a43f6c0761c8
 Q
