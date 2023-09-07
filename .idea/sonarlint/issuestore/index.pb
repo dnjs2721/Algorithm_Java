@@ -13,8 +13,6 @@ N
 Programmers/추억_점수.java,b/8/b8c4d787dcf95005bf7cbaaf7f452355c9b2177f
 Q
 !Programmers/리코쳇_로봇.java,7/3/73d3616354c793d5b4b0fc8452dd88bc524e9d27
-T
-$Programmers/과제_진행하기.java,5/4/5446dcb2c1c0a61d550bf8c43e7f3951534f2530
 U
 %Programmers/대충_만든_자판.java,4/e/4e377b1beff838d923956c00fb868c7cd5657042
 T
@@ -47,8 +45,6 @@ a
 1Programmers/크기가_작은_부분문자열.java,b/9/b97a0aa4e45bb89f6dcf3fd0e0b4b1f63c9012b2
 T
 $Programmers/숫자_변환하기.java,9/1/916a1104ef374207c8eb8b42e10baccca16cdb5c
-d
-4Programmers/뒤에_있는_큰_수_찾기_PQueue.java,0/3/0341a1861331feadebe28cb53d18fdc20fc3b263
 X
 (Programmers/테이블_해시_함수.java,7/3/7375de6f735eba50bd9d010dfd3362e133cbd5b9
 Q
@@ -113,8 +109,6 @@ G
 Programmers/예산.java,9/2/92c1f4e7a35aeca70563ea20a1d4ce2f94e1002e
 W
 'Programmers/점프와_순간이동.java,b/1/b150a458816dd92e3203d63557ef83a2d11c3288
-Q
-!Programmers/요격_시스템.java,f/1/f16fcc2e2b5a28a1d7877505b34dac27687f5042
 T
 $Programmers/영어_끝말잇기.java,8/3/83bcafadfff363d061be39f7292e8f1923da462d
 P
@@ -133,8 +127,6 @@ P
  BaekJoon/Stack/Algorithm_06.java,8/3/83e422a18132d3b3bba4d4c3844d143046d675aa
 U
 %Programmers/광물_캐기_GREEDY.java,7/f/7f6a5a3496511db2f211474a06bb8f38eb0dd78d
-G
-Programmers/배달.java,c/4/c463c788a388162f55784ff0c8022c3d9bc4713c
 P
  BaekJoon/Stack/Algorithm_08.java,9/4/9475009d3818c729aa5d97633412121f5eda7202
 P
