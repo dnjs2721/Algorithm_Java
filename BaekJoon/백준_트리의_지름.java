@@ -3,7 +3,7 @@ package BaekJoon;
 import java.util.*;
 import java.io.*;
 
-public class 백준_트리의_지름 {
+public class 백준_트리의_지름 { // 1967
 
     static ArrayList<Node>[] map;
     static boolean[] visited;
