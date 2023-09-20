@@ -245,5 +245,3 @@ T
 $BaekJoon/백준_1_2_3_더하기.java,b/6/b64aedc2a30d4dde65c8665f10e5f05667e4d6c8
 R
 "BaekJoon/백준_섬의_개수.java,b/7/b76a0d57d77093646b85339276b29cebcd8541fa
-U
-%BaekJoon/백준_트리의_지름.java,0/a/0aca886dc072593573d3d4ccbc10161f286a7948
