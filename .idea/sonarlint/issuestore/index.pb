@@ -245,3 +245,7 @@ T
 $BaekJoon/백준_1_2_3_더하기.java,b/6/b64aedc2a30d4dde65c8665f10e5f05667e4d6c8
 R
 "BaekJoon/백준_섬의_개수.java,b/7/b76a0d57d77093646b85339276b29cebcd8541fa
+R
+"BaekJoon/백준_안전_영역.java,c/3/c397042d117d27a048b3e283e9409fcb208babca
+\
+,BaekJoon/백준_트리의_부모_찾기.java,7/e/7ecb567ad464230a29840c813406799b40e793c6
