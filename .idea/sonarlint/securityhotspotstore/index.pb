@@ -249,3 +249,13 @@ R
 "BaekJoon/백준_안전_영역.java,c/3/c397042d117d27a048b3e283e9409fcb208babca
 \
 ,BaekJoon/백준_트리의_부모_찾기.java,7/e/7ecb567ad464230a29840c813406799b40e793c6
+Q
+!BaekJoon/백준_내리막길.java,c/3/c3ff575d0b99941f25127e5198d152f9b6aa789b
+Q
+!BaekJoon/백준_촌수계산.java,c/c/cc72936e881a0aafe892a1abd152214c097aeeba
+U
+%BaekJoon/백준_영역_구하기.java,9/4/943204142c5ddf4029c68aed36155102d2a67601
+U
+%BaekJoon/백준_이분_그래프.java,c/3/c35cfaa12fc426a771d9473b747b630b68c42de2
+N
+BaekJoon/백준_알파벳.java,8/c/8c4f8130fcd19fdf8242ccff3457517b0a894e9f
