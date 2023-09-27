@@ -267,3 +267,7 @@ W
 'BaekJoon/백준_트리의_지름_2.java,5/2/525500371db557b7b47aa5d87865853ddec454a4
 O
 BaekJoon/백준_키_순서.java,9/0/9023c7f886685c6026fab6df0ac10ab1f9dc5454
+K
+BaekJoon/백준_치즈.java,f/f/ff6d3d97a97198d780834fb59080a0c3faa5f6fe
+X
+(BaekJoon/백준_음식물_피하기.java,c/f/cfc7d6495a865caac2dd7021aa9b5174d5feb8e3
