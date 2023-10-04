@@ -271,3 +271,17 @@ K
 BaekJoon/백준_치즈.java,f/f/ff6d3d97a97198d780834fb59080a0c3faa5f6fe
 X
 (BaekJoon/백준_음식물_피하기.java,c/f/cfc7d6495a865caac2dd7021aa9b5174d5feb8e3
+N
+BaekJoon/백준_블랙잭.java,7/f/7ff15717671459d802f669698c491931a3db2d61
+N
+BaekJoon/백준_분해합.java,0/d/0d12fd822fcc3689b848e46537baadda742b3fbd
+X
+(BaekJoon/백준_효율적인_해킹.java,7/6/7601db106fc098aed9906f28558c7d8a968f23ba
+R
+"BaekJoon/백준_셀프_넘버.java,c/6/c63345f3ef62e27c07b1190ea6faa46f1b354c73
+K
+BaekJoon/백준_트리.java,f/e/fe2a72b4c989c0c5df5c15099a1b3a40c8658c51
+K
+BaekJoon/백준_한수.java,e/4/e4c35708ead3e2ab52e72517955d26c6b114bac0
+K
+BaekJoon/백준_덩치.java,a/f/afbbfdf7486bf45a32db0fc4d230fe7e2b2af21e
