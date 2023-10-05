@@ -285,3 +285,5 @@ K
 BaekJoon/백준_한수.java,e/4/e4c35708ead3e2ab52e72517955d26c6b114bac0
 K
 BaekJoon/백준_덩치.java,a/f/afbbfdf7486bf45a32db0fc4d230fe7e2b2af21e
+_
+/BaekJoon/백준_체스판_다시_칠하기.java,d/5/d5f0c5fd69039cc00910d246fad27270256ccb2b
