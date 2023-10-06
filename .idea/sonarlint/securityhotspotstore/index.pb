@@ -287,3 +287,5 @@ K
 BaekJoon/백준_덩치.java,a/f/afbbfdf7486bf45a32db0fc4d230fe7e2b2af21e
 _
 /BaekJoon/백준_체스판_다시_칠하기.java,d/5/d5f0c5fd69039cc00910d246fad27270256ccb2b
+U
+%BaekJoon/백준_영화감독_숌.java,1/0/1030f2b932d780a0d25a24b55fa95f74dbadf993
