@@ -7,8 +7,8 @@ public class 백준_테트로미노 {
     static int n, m;
     static int[][] map;
     static boolean[][] visited;
-    static int[] dx = new int[]{-1, 1, 0, 0};
-    static int[] dy = new int[]{0, 0, -1, 1};
+    static int[] dy = new int[]{-1, 1, 0, 0};
+    static int[] dx = new int[]{0, 0, -1, 1};
     static int answer = Integer.MIN_VALUE;
 
     public static void main(String[] args) throws IOException {
@@ -22,7 +22,7 @@ public class 백준_테트로미노 {
         visited = new boolean[n][m];
         for (int i = 0; i < n; i++) {
             st = new StringTokenizer(br.readLine());
-            for (int j = 0; j < n; j++) {
+            for (int j = 0; j < m; j++) {
                 map[i][j] = Integer.parseInt(st.nextToken());
             }
         }
@@ -46,6 +46,7 @@ public class 백준_테트로미노 {
         for (int i = 0; i < 4; i++) {
             int nx = x + dx[i];
             int ny = y + dy[i];
+
             if (nx < 0 || ny < 0 || nx >= m || ny >= n) continue;
             if (visited[ny][nx]) continue;
             if (depth == 2) {
@@ -59,4 +60,3 @@ public class 백준_테트로미노 {
         }
     }
 }
-
