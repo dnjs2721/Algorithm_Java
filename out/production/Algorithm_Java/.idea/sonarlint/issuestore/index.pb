@@ -305,3 +305,11 @@ N
 BaekJoon/백준_연구소.java,9/3/93880cf3d75f1f829ceba7b8268a2d2a6f91a8eb
 [
 +BaekJoon/백준_연산자_끼워넣기.java,6/3/63b5264ec0001939e4debaa51d95e97a19cc1954
+R
+"BaekJoon/백준_치킨_배달.java,b/3/b388648f748cf1145fd24543b88b66ccab79707c
+U
+%BaekJoon/백준_암호_만들기.java,c/7/c788fc9ea1f33ff7979c9e0843f0e12d449813eb
+T
+$BaekJoon/백준_테트로미노.java,b/3/b3bb3b8cdaeb5c654daa47525f2fe8659539a674
+R
+"BaekJoon/백준_날짜_계산.java,2/5/255ad5e8cd97718aefe984afcafbeeb767468e48
