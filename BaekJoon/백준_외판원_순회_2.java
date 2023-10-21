@@ -8,7 +8,7 @@ public class 백준_외판원_순회_2 {
     static int[][] w;
     static boolean[] cities;
     static int first;
-    static long answer = Integer.MAX_VALUE;
+    static int answer = Integer.MAX_VALUE;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -32,7 +32,7 @@ public class 백준_외판원_순회_2 {
         System.out.println(answer);
     }
 
-    public static void dfs(int start, long sum, int depth) {
+    public static void dfs(int start, int sum, int depth) {
         if (depth == n) {
             answer = Math.min(answer, sum);
             return;
