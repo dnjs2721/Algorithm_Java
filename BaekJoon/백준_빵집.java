@@ -6,7 +6,7 @@ public class 백준_빵집 {
 
     static int r, c;
     static boolean[][] map;
-    /** 이 순서가 제일 중요했음,, **/
+    /** 이 순서가 제일 중요 **/
     static int[] dx = {1, 1, 1}; //우, 우, 우
     static int[] dy = {-1, 0, 1}; //상, , 하
     static boolean[][] visited;
