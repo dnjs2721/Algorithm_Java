@@ -313,3 +313,13 @@ T
 $BaekJoon/백준_테트로미노.java,b/3/b3bb3b8cdaeb5c654daa47525f2fe8659539a674
 R
 "BaekJoon/백준_날짜_계산.java,2/5/255ad5e8cd97718aefe984afcafbeeb767468e48
+T
+$BaekJoon/백준_수들의_합_2.java,c/3/c3998ee3182e391916065623888f28abcc75cbb6
+N
+BaekJoon/백준_2048_Easy.java,1/9/19565ebf9abdd115d4811d5ee7a1c1a62c04ccd4
+R
+"BaekJoon/백준_2048_Platinum.java,b/c/bc5a3ea6b1be44f0b62b9d3eeab8b3fe23a51bba
+X
+(BaekJoon/백준_차이를_최대로.java,6/7/673a29ff8c81326700b53d784a20b7cebe509f5a
+N
+BaekJoon/백준_리모컨.java,8/9/89c039ec819ee6886cdc8ff775fee610cdfa9d49
