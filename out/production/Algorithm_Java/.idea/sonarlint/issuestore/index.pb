@@ -323,3 +323,5 @@ X
 (BaekJoon/백준_차이를_최대로.java,6/7/673a29ff8c81326700b53d784a20b7cebe509f5a
 N
 BaekJoon/백준_리모컨.java,8/9/89c039ec819ee6886cdc8ff775fee610cdfa9d49
+T
+$BaekJoon/백준_완전제곱수.java,5/7/5751c8a18ac904c30890209cd2de4619c8f6813f
