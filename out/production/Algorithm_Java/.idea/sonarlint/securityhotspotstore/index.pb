@@ -325,3 +325,9 @@ N
 BaekJoon/백준_리모컨.java,8/9/89c039ec819ee6886cdc8ff775fee610cdfa9d49
 T
 $BaekJoon/백준_완전제곱수.java,5/7/5751c8a18ac904c30890209cd2de4619c8f6813f
+R
+"BaekJoon/백준_모든_순열.java,c/d/cdc3a95c4697c29cac6cd65df059bb4ec71804bf
+K
+BaekJoon/백준_감시.java,a/b/ab8ba0ec2e1019cc47aa5370cda726468160dc46
+U
+%BaekJoon/백준_숫자판_점프.java,6/e/6e03d68d2fe48b241d938392a786d5a8780cd0d9
