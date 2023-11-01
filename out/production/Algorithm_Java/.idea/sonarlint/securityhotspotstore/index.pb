@@ -331,3 +331,5 @@ K
 BaekJoon/백준_감시.java,a/b/ab8ba0ec2e1019cc47aa5370cda726468160dc46
 U
 %BaekJoon/백준_숫자판_점프.java,6/e/6e03d68d2fe48b241d938392a786d5a8780cd0d9
+R
+"BaekJoon/백준_카잉_달력.java,f/2/f2d4970c083afc37c412f89c1a5fa4ea38222a57
