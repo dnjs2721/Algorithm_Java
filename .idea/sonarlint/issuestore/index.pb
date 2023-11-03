@@ -333,3 +333,27 @@ U
 %BaekJoon/백준_숫자판_점프.java,6/e/6e03d68d2fe48b241d938392a786d5a8780cd0d9
 R
 "BaekJoon/백준_카잉_달력.java,f/2/f2d4970c083afc37c412f89c1a5fa4ea38222a57
+W
+'BaekJoon/백준_외판원_순회_2.java,2/2/22770a7cfc341d87a127249b9f80e53de3f2b287
+K
+BaekJoon/백준_빵집.java,d/6/d6fe7de55a6438b66eacae62be7a77e217f62578
+R
+"BaekJoon/백준_전쟁_전투.java,9/7/97ea22913f2760948c3dabaf98a4dd197256f5ed
+H
+BaekJoon/백준_양.java,a/c/acb388e8b12569d61d9fe69d0940f8c91481cbb4
+T
+$BaekJoon/깊이_우선_탐색_2.java,3/2/329bc360c79059d916dc76995163de9e589a2df8
+V
+&BaekJoon/백준_다리만들기_2.java,9/7/97ba78bee2cefe7f9cd2d99864c256d524f74130
+J
+BaekJoon/백준_ABCDE.java,b/7/b73b52fd5fcdf9cc7468a4cfb3816101f3efe51f
+T
+$BaekJoon/백준_숫자고르기.java,2/4/242a19fe8d8a82287ff877a78096774aa388ef6f
+W
+'BaekJoon/백준_마인크래프트.java,0/8/08b0a10350ec1fd43626d76883ab8946fd40743c
+N
+BaekJoon/백준_보물섬.java,4/1/41b92ee354e859330b1863ecd7822eb68e74481c
+U
+%BaekJoon/백준_트리와_쿼리.java,a/c/ac1682ba1fdcd10598900523dd8f2351a1fdbe12
+c
+3BaekJoon/백준_가장_가까운_공통_조상.java,a/0/a0657f0a855c062f0aadd2e1c212974e16ef4848
