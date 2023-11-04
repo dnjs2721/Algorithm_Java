@@ -1,0 +1,5 @@
+
+z	java:S1353"YReduce the total number of break and continue statements in this loop to use at most one.(ı­Ïüÿÿÿÿ8äü™ƒ¸1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ú‹àÔ8åü™ƒ¸1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğÓÚ¡ùÿÿÿÿ8æü™ƒ¸1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¹¤ÈÌüÿÿÿÿ8Äı™ƒ¸1
