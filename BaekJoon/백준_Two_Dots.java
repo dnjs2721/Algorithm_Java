@@ -10,7 +10,6 @@ public class 백준_Two_Dots {
     static int[] dx = new int[]{0, 0, -1, 1};
     static int[] dy = new int[]{-1, 1, 0 , 0};
     static int startX, startY;
-    static boolean flag = false;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
@@ -30,15 +29,13 @@ public class 백준_Two_Dots {
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (flag) break;
                 startX = j;
                 startY = i;
                 dfs(j, i, map[i][j], 1);
             }
         }
 
-        if (flag) System.out.println("Yes");
-        else System.out.println("No");
+        System.out.println("No");
     }
 
     public static void dfs(int x, int y, char color, int depth) {
@@ -49,8 +46,8 @@ public class 백준_Two_Dots {
             if (nx < 0 || ny < 0 || nx >= m || ny >= n) continue;
             if (map[ny][nx] != color) continue;
             if (depth + 1 >= 4 && nx == startX && ny == startY) {
-                flag = true;
-                return;
+                System.out.println("Yes");
+                System.exit(0);
             }
             if (visited[ny][nx]) continue;
             dfs(nx, ny, color, depth + 1);
