@@ -1,5 +1,6 @@
 package BaekJoon;
 
+import java.math.BigDecimal;
 import java.util.*;
 import java.io.*;
 
@@ -22,7 +23,7 @@ public class 백준_미친_로봇 {
         visited = new boolean[2 * n + 1][2 * n + 1];
         dfs(n, n, 0, 1);
 
-        System.out.println(goal);
+        System.out.println(BigDecimal.valueOf(goal));
     }
 
     public static void dfs(int x, int y, int depth, double res) {
