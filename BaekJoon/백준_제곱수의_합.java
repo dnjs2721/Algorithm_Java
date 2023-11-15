@@ -1,6 +1,5 @@
 package BaekJoon;
 
-import java.util.*;
 import java.io.*;
 
 public class 백준_제곱수의_합 {
