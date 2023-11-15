@@ -10,7 +10,8 @@ public class 백준_다리만들기_2 {
     static int[] dy = new int[]{-1, 1, 0, 0};
     static boolean[][] visited;
     static int islandCount = 0;
-    static int[][] bridgeMap;
+    static PriorityQueue<Bridge> pq = new PriorityQueue<>((o1, o2) -> o1.val - o2.val);
+    static int[] parent;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
@@ -36,26 +37,9 @@ public class 백준_다리만들기_2 {
             }
         }
 
-        bridgeMap = new int[islandCount + 1][islandCount + 1];
-        for (int i = 1; i <= islandCount; i++) {
-            for (int j = 1; j <= islandCount; j++) {
-                bridgeMap[i][j] = Integer.MAX_VALUE;
-            }
-        }
         checkBridge(); // 연결될 수 있는 모든 다리 탐색
-        List<Bridge> bridges = new ArrayList<>(); // bridge 객체를 담을 bridges
-        for (int i = 1; i <= islandCount; i++) {
-            // 시작점 <-> 도착점 이 중복되는 문제가 있음,,
-            // bridgeMap[i][i]는 나올 수 없음
-            // j가 i보다 작은 것 bridgeMap[i][j] 는 이미 bridgeMap[i][j]에서 확인함
-            // 결론 : j의 시작점을 i + 1로
-            for (int j = i + 1; j <= islandCount; j++) {
-                if (bridgeMap[i][j] == Integer.MAX_VALUE) continue; // 연결 다리가 없음
-                bridges.add(new Bridge(i, j, bridgeMap[i][j])); // 시작점, 끝점, 다리 크기
-            }
-        }
-        bridges.sort((o1, o2) -> o1.val - o2.val); // 모든 섬을 연결 할 때 최소한의 다리만 사용해야하니 오름차순 정렬
-        System.out.println(bridges);
+
+        System.out.println(kruskal());
     }
 
     public static void checkIsland(int x, int y) { // bfs 를 통해 모든 섬에 고유 번호를 붙인다.
@@ -95,10 +79,8 @@ public class 백준_다리만들기_2 {
                         int next = map[ny][nx];
                         if (next != 0 && next != startIsland) { // next 가 육지이면서 처음시작한 섬과 다른 섬일 때
                             if (bridgeCount > 1) { // 사용한 다리가 2개 이상일 때
-                                // startIsland -> nextIsland 최소 거리 갱신
-                                bridgeMap[startIsland][next] = Math.min(bridgeMap[startIsland][next], bridgeCount);
-                                // nextIsland -> startIsland 최소 거리 갱신
-                                bridgeMap[next][islandCount] = Math.min(bridgeMap[next][islandCount], bridgeCount);
+                                // startIsland -> nextIsland 다리 추가
+                                pq.add(new Bridge(startIsland, next, bridgeCount));
                             }
                             break;
                         } else if (startIsland == next) { // 시작 섬이랑 같아진 경우 - 즉 다시 돌아간 경우
@@ -111,6 +93,44 @@ public class 백준_다리만들기_2 {
                 }
             }
         }
+    }
+
+    public static int kruskal() {
+        parent = new int[islandCount + 1];
+        for (int i = 1; i <= islandCount; i++) {
+            parent[i] = i;
+        }
+
+        boolean[] link = new boolean[islandCount + 1];
+        int res = 0;
+        int bridge = 0;
+        while (!pq.isEmpty()) {
+            Bridge b = pq.poll();
+
+            int land1 = find(b.start);
+            int land2 = find(b.end);
+
+            if (land1 != land2) {
+                union(land1, land2);
+                link[land1] = true;
+                link[land2] = true;
+                res += b.val;
+                bridge++;
+            }
+        }
+
+        if (res == 0) return -1;
+        if (bridge != islandCount - 1) return -1;
+        return res;
+    }
+
+    public static int find(int land) {
+        if (parent[land] == land) return land;
+        return parent[land] = find(parent[land]);
+    }
+
+    public static void union(int land1, int land2) {
+        parent[land1] = land2;
     }
 
     public static class Node {
