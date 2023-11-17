@@ -1,4 +1,4 @@
-package etc;
+package etc.Problem_No_1;
 
 import java.util.*;
 import java.io.*;
@@ -8,6 +8,8 @@ public class 알리바바와_40인의_도둑 {
     static int[][] map;
     static int[][] dp;
     public static void main(String[] args) throws IOException {
+        long beforeTime = System.currentTimeMillis();
+        System.setIn(new FileInputStream("etc/Problem_No_1/in5.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         n = Integer.parseInt(br.readLine());
@@ -23,6 +25,9 @@ public class 알리바바와_40인의_도둑 {
         }
 
         System.out.println(scan());
+        long afterTime = System.currentTimeMillis();
+        long secDiffTime = (afterTime - beforeTime);
+        System.out.println("실행시간 : "+ secDiffTime + "ms");
     }
 
     public static int scan() {
