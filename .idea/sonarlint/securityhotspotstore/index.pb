@@ -126,8 +126,6 @@ P
 P
  BaekJoon/Stack/Algorithm_06.java,8/3/83e422a18132d3b3bba4d4c3844d143046d675aa
 P
- BaekJoon/Stack/Algorithm_08.java,9/4/9475009d3818c729aa5d97633412121f5eda7202
-P
  BaekJoon/Stack/Algorithm_07.java,8/c/8c78f1a44f0690204a93a69fe0dfbf694b800992
 N
 Programmers/모음_사전.java,0/1/012108bce7843e156092af2e7337a43f6c0761c8
