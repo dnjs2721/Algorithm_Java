@@ -37,11 +37,8 @@ public class 백준_인구_이동 {
             answer++; // 인구 이동이 발생한 일 수 + 1
             for (int i = 0; i < N; i++) { // 전체 국가 탐색
                 for (int j = 0; j < N; j++) { // 전체 국가 탐색
-                    if (association[i][j] == 0) continue; // 만약 연합국이 아니라면 continue
-                    else { // 연합에 소속된 국가라면
-                        // 해당 국가의 인구수를 연합의 인구 평균으로 변경한다.
-                        A[i][j] = map.get(association[i][j]);
-                    }
+                    // 해당 국가의 인구수를 연합의 인구 평균으로 변경한다.
+                    A[i][j] = map.get(association[i][j]);
                 }
             }
         }
@@ -114,6 +111,8 @@ public class 백준_인구_이동 {
         }
 
         // countryNum 연합에 대한 탐색이 끝이 났다면
+        // 연합국이 없다면 탐색시작 국가 혼자인 연합이 된다.
+        // 결론적으로 모든 국가에 대한 연합이 생긴다.
         map.put(countryNum, sum / count); // map 에 countryNum 연합의 평균 인구수를 추가한다.
         return flag;
     }
